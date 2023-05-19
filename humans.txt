@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Adding some important notes on GIT stash
+
 # TEAM
 
     <name> -- <role> -- <twitter>

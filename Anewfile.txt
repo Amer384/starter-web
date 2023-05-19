@@ -1,0 +1,1 @@
+adding new file in Git prject . This is not stll gtracked by Git 
